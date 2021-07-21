@@ -1,1 +1,1 @@
-7/21/2021 11:22:14 PM: 
+7/21/2021 11:33:36 PM: --allegro-advert=true --allegro-buyNow=true --allegro-auction=true --allegro-searchTerm=rtx 2060 --allegro-categoryUrlString=podzespoly-komputerowe-karty-graficzne-260019 
