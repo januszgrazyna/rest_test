@@ -1,1 +1,1 @@
-8/29/2021 12:02:06 PM: scrap --type="" --runConfigurationId="9cb27e6d-5855-40ce-a79a-02dd78864015" cmdtest
+8/30/2021 1:08:04 AM: scrap --type="" --runConfigurationId="" cmdtest
