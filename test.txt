@@ -1,1 +1,1 @@
-9/28/2021 9:49:06 PM: scrap "" "8b847ac7-b21d-472e-a011-cd02518de3ca" cmdtest
+10/28/2021 12:06:32 AM: scrap "GraphicCards" "00000000-0000-0000-0000-000000000000" --gc-models "gtx 980" --gc-maxPrice="1500" --gc-minPrice="200" --gc-buyNow="true" --gc-advert="true" --gc-notificationExpr="item.price < 1000"
